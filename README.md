@@ -9,7 +9,7 @@ Running it requires .NET 4.5.
 
 ![2024-07-08 16_00_26-Time On Task - T_test](https://github.com/lukecnau/TimeOnTask/assets/7374647/5389a900-7690-4860-936d-db77f07594bd)
 
-Clicking the time will switch it between running and stopping.
+Clicking the time will toggle between running and stopping.
 
 ![2024-07-08 16_00_43-Time On Task - T_test - on](https://github.com/lukecnau/TimeOnTask/assets/7374647/336e30d5-03b5-4755-b7d2-40c0a44f4281)
 
