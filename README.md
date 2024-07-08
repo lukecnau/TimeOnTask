@@ -13,10 +13,11 @@ Clicking the time will switch it between running and stopping.
 
 ![2024-07-08 16_00_43-Time On Task - T_test - on](https://github.com/lukecnau/TimeOnTask/assets/7374647/336e30d5-03b5-4755-b7d2-40c0a44f4281)
 
-* Click the 'config' button will show a Dialog to config the Task color.
+* Click the 'config' button will show a Dialog to config the task's time colors.
 
 ![2024-07-08 16_37_42-Config](https://github.com/lukecnau/TimeOnTask/assets/7374647/76adb237-70a5-49b4-a51a-966272904e1b)
 
+* On the task's time UI, right click mouse with pressed **ALT** key, will pick the 'running time' color, right click mouse with pressed **CTRL** key, will pick the 'stopping time' color, just right click mouse will pick the background color.
 
 * Open OBS Studio, config it as pictures followed. 
 
