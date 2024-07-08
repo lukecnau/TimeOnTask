@@ -4,6 +4,8 @@ Running it requires .NET 4.5.
 
 ![2024-07-08 15_59_57-Time On Task - main](https://github.com/lukecnau/TimeOnTask/assets/7374647/df03cacb-ed3b-43d8-b11c-97fb51ff94d5)
 
+![2024-07-08 16_27_19-OBS 30 1 1 - Profile_ 未命名 - Scenes_ 未命名](https://github.com/lukecnau/TimeOnTask/assets/7374647/6aa6263f-2157-4c94-a1d8-4f968adfbc22)
+
 # Usage:
 * Open the tool and it will create a new task, then double click the task, it will show the time, now it is stopped. 
 
@@ -29,7 +31,6 @@ Using chromaKey of filter to make the TimeOnTask backgound transparent.
 
 ![2024-07-08 16_07_25-OBS 30 1 1 - 配置文件_ 未命名 - 场景_ 未命名2](https://github.com/lukecnau/TimeOnTask/assets/7374647/faa5568c-2421-4e75-8a41-aab1950454ef)
 
-This is the final result.
-![2024-07-08 16_27_19-OBS 30 1 1 - Profile_ 未命名 - Scenes_ 未命名](https://github.com/lukecnau/TimeOnTask/assets/7374647/6aa6263f-2157-4c94-a1d8-4f968adfbc22)
+
 
 
