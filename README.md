@@ -1,5 +1,6 @@
 # TimeOnTask
 This tiny tool is developed for displaying time process when I am recording painting. It can record the time you spent on task.
+
 ![2024-07-08 15_59_57-Time On Task - main](https://github.com/lukecnau/TimeOnTask/assets/7374647/df03cacb-ed3b-43d8-b11c-97fb51ff94d5)
 
 # Usage:
